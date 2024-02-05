@@ -10,6 +10,8 @@ public class Aula10String {
         System.out.println("Digite o Seu nome: ");
         nome = input.nextLine();
         System.out.println(nome);
+
+        input.close();
     }
 
 }

@@ -19,6 +19,8 @@ public class Exercicio05String {
             teclado.nextLine();
             media = (nota1 + nota2 + nota3) / 3;
             System.out.println("A media de " + nome + " é " + media);
+
+            teclado.close();
         }
     }
 

@@ -24,5 +24,7 @@ public class Exercicio03EstruturasDeDecisaoIf {
         } else {
             System.out.println("O aluno está em recuperação final " + media);
         }
+
+        input.close();
     }
 }

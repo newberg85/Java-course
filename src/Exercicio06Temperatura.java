@@ -13,6 +13,8 @@ public class Exercicio06Temperatura {
         grausF = input.nextInt();
         grausC = (grausF - ajuste) * fator;
         System.out.println("O valor de ºF" + grausF + " é ºC" + grausC );
+
+        input.close();
     }
 
 }

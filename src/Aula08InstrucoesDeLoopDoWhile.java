@@ -39,6 +39,8 @@ public class Aula08InstrucoesDeLoopDoWhile {
         } while (true);
 
         System.out.println("Fim");
+
+        teclado.close();
     }
 
 }

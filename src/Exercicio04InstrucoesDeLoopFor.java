@@ -20,6 +20,8 @@ public class Exercicio04InstrucoesDeLoopFor {
             media = (nota1 + nota2 + nota3) / 3;
 
             System.out.println("A média do aluno " + i + " é " + media);
+
+            input.close();
         }
     }
 
