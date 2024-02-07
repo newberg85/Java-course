@@ -1,3 +1,4 @@
+package fundamentos.exercicios;
 public class Exercicio01TiposPrimitivos {
     
     public static void main(String[] args) {

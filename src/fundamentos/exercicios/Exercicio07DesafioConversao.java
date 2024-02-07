@@ -1,3 +1,4 @@
+package fundamentos.exercicios;
 import java.util.Scanner;
 
 public class Exercicio07DesafioConversao {

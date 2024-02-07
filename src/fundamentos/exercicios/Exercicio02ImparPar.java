@@ -1,3 +1,4 @@
+package fundamentos.exercicios;
 public class Exercicio02ImparPar {
     
     public static void main(String[] args) {

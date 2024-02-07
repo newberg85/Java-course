@@ -1,3 +1,4 @@
+package fundamentos.exercicios;
 public class Exercicio08DesafioAritmeticos {
 
     public static void main(String[] args) {
