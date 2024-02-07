@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula06InstrucaoSwitch {
 
     public static void main(String[] args) {

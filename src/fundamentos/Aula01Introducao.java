@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula01Introducao {
     /* public é um modificador de acesso. Uma variável, método ou classe marcada com o modificador público pode ser acessada de qualquer lugar no programa. Existem quatro deles em Java: público, privado, protegido e padrão (vazio). vazio o tipo de retorno do método. Void significa que não retorna nenhum valor. main representa o ponto inicial do programa. Este é o nome do método. String[] args é um argumento do método principal. Por enquanto basta saber que quase todo programa Java tem o método main, ele inicia o programa e declara como public static void main(String[] args) Os métodos  estáticos são aqueles para trabalhar com a classe. Os métodos que usam a palavra-chave static em sua declaração só podem trabalhar diretamente com variáveis ​​locais e estáticas.  */
     public static void main(String[] args) throws Exception {

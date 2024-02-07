@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula09InstrucoesDeLoopFor {
 
     public static void main(String[] args) {

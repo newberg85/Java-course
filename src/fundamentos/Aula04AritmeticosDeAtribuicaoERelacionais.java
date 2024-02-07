@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula04AritmeticosDeAtribuicaoERelacionais {
 
     // OPERADORES ARITMETICOS COM ATRIBUÇÃO

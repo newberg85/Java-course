@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula02TiposPrimitivos {
 
     /* Inteiros: esse grupo inclui byte, short, int e long, que são para números assinalados com valor inteiro.

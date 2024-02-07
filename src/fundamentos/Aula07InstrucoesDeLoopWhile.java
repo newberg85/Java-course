@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula07InstrucoesDeLoopWhile {
 
     public static void main(String[] args) {

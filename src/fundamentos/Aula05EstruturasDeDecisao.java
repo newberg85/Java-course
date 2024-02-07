@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula05EstruturasDeDecisao {
 
     public static void main(String[] args) {

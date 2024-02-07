@@ -1,3 +1,4 @@
+package fundamentos;
 public class Aula11Array {
 
     public static void main(String[] args) {
