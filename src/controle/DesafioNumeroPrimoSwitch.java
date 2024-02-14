@@ -8,7 +8,7 @@ public class DesafioNumeroPrimoSwitch {
         int contadorDeDivisores = 0;
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("\nDigite um numero para verificar se é primo:");
+		System.out.println("\nDigite um numero para verificar se ele é primo:");
 		int numero = scanner.nextInt();
 
 		for (int i = 2; i < numero; i++) {
