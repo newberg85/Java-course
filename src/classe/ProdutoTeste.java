@@ -4,15 +4,17 @@ public class ProdutoTeste {
 
     public static void main(String[] args) {
 
-        Produto p1 = new Produto("Notebook", 4356.89, 0.25);
+        Produto p1 = new Produto("Notebook", 4356.89);
+        // Produto p1 = new Produto("Notebook", 4356.89, 0.25);
         // p1.nome = "Notebook";
         // p1.preco = 4356.89;
         // p1.desconto = 0.25;
+        Produto.desconto = 0.29; // Todos os produtos ficarão com 29% de desconto
 
         var p2 = new Produto();
         p2.nome = "Celular";
         p2.preco = 2600.85;
-        p2.desconto = 0.29;
+        // p2.desconto = 0.29;
 
         System.out.println(p1.nome);
         System.out.println(p2.nome);
