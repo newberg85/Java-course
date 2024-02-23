@@ -1,7 +1,8 @@
 package classe;
 
 public class Data {
-    
+
+    // Atributo de objeto ou de instancia por estar fora do método e dentro da classe
     int dia;
     int mes;
     int ano;
@@ -20,6 +21,7 @@ public class Data {
     }
     
     String obterDataFormatada() {
-        return String.format("%d/%d/%d", dia, mes, ano);
+        final String formato = "%d/%d/%d"; // variaveis definidas dentro de métodos são chamadas de variáveis locais
+        return String.format(formato, dia, mes, ano);
     }
 }
